@@ -1,0 +1,2 @@
+		i	19	int
+		num	31338	int
